@@ -1,0 +1,27 @@
+# 1. Tout Obsidian (config, thèmes, plugins, binaires)
+.obsidian/*
+
+# 2. Optionnel : conserver la config du plugin Obsidian Git
+!.obsidian/plugins/obsidian-git/data.json
+
+# 3. Système mémoire / smart-env (fichiers .ajson, etc.)
+.smart-env/*
+
+# 4. Pièces jointes lourdes (dans tout le coffre)
+**/*.pdf
+**/*.png
+**/*.zip
+**/*.tar
+**/*.tar.gz
+**/*.7z
+**/*.mp4
+**/*.mov
+**/*.mp3
+**/*.wav
+
+# 5. Corbeille / fichiers temporaires
+.trash/
+~$*
+*.tmp
+Thumbs.db
+.DS_Store

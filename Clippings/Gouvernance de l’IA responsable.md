@@ -1,6 +1,6 @@
 ---
 title: "Gouvernance de l’IA responsable : Guide des bonnes pratiques des collectivités pour se lancer"
-source: ***REMOVED-SAS-URL***
+source: Guide-pratique-IA-Interconnecté
 author:
   - Interconnectés
 published:
